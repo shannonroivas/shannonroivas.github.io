@@ -5,10 +5,9 @@ title: "Home"
 
 # Welcome
 
-Hi, I’m **Shannon Roivas**, a PhD Candidate in **Biological Anthropology** at [Your University].  
-My research focuses on the intersections of **primate behavior, ecology, and physiology**, with a special focus on long-term data from **Gombe National Park, Tanzania**.  
+My research focuses on the intersections of **primate behavior, ecology, and habitat change**, with a special focus on long-term data from **Gombe National Park, Tanzania**. My methods combine longitudinal habitat modelling from remote-sensed data, spatial analysis, behavioral observation in the field, and noninvasive biomarker collection. I'm currently conducting my dissertation research at Arizona State University, home of the the Jane Goodall Institute Gombe Research Archive.
 
-This site serves as my academic portfolio, featuring my research, CV, and ways to connect.  
+This site serves as my academic portfolio, featuring my research activities, teaching experience, and ways to connect.  
 
 ---
 
