@@ -3,18 +3,27 @@ layout: page
 title: ""
 ---
 
-I seek to better understand how the real, three-dimensional space of a landscape drives behavior. Specifically, how does the distribution and value of key resources shape the movement of individuals and how they interact? My current research focuses Gombe National Park, a habitat that's experienced longitudinal change since the 1960s, as a case study for exploring the ways in which habitat variation across space and time can drive variation in the complex social interactions of our evolutionary cousins, chimpanzees.
+I seek to better understand how the real, three-dimensional space of a landscape drives behavior. Specifically, how does the distribution and value of key resources shape the movement of individuals and how they interact? My current research focuses on Gombe National Park, a habitat that's experienced longitudinal change since the 1960s, as a case study for exploring the ways in which habitat variation across space and time can drive variation in the complex social interactions of our evolutionary cousins, chimpanzees.
 
-I'm currently conducting my dissertation research at Arizona State University, home of the the Jane Goodall Institute Gombe Research Archive.
+I'm currently conducting my dissertation research at Arizona State University,  home to the the Jane Goodall Institute Gombe Research Archive.
 
 
 ---
 
 ## Research Methods
-My methods combine habitat modelling from historic remote-sensed data, behavioral observations on a wild population, and noninvasive biomarker collection. 
-- **Primate growth and development** – exploring the impact of maternal loss and social factors.  
-- **Behavioral ecology** – linking spatial patterns with long-term ecological data.  
-- **Physiology and health** – analyzing biomarkers from urine and other non-invasive methods.  
+My methods reflect a combination of noninvasive fieldwork, spatial analysis, and long-term data wrangling and statistical modelling.
+- **Modelling habitat change** – I use remote-sensed data to build Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to see how the quality and distribution of foods has changed at Gombe since the early 1980s.
+- **Chimpanzees as surveyors** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. Data collected over the past 65 years have captured where chimpanzees fed on various plants, serving as a way to identify the known presence of these food species.
+- **Diet and biomarkers** – I apply non-invasive methods to collect urinary biomarkers of energetic state to better understand how diet shapes energy availability in chimpanzees.
+- **Behavioral ecology** – Combining these data sources with decades of long-term social and reproductive data, I use statistical analyses to link spatial characteristics of feeding habitats to complex behaviors that occur when the energetic constraints of grouping are relaxed. 
+
+
+---
+
+## Featured Research Awards
+My work has been generously funded by the following:
+- **National Science Foundation DDRIG** – 
+- **The Leakey Foundation** - 
 
 
 ---
@@ -26,10 +35,7 @@ A detailed account of my academic training, research experience, and publication
 
 ## Contact
 I welcome academic collaborations and opportunities to share my work.  
-You can reach me at:   **sroivas@asu.edu**  
-
-Or connect via:  
-- [GitHub Profile](https://github.com/shannonroivas)
+You can reach me at   **sroivas@asu.edu**  or connect via:  [GitHub](https://github.com/shannonroivas)
 
 ---
 
