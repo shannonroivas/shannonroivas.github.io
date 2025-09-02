@@ -12,24 +12,28 @@ I'm currently conducting my dissertation research at Arizona State University,  
 
 ## Research Methods
 My methods reflect a combination of noninvasive fieldwork, spatial analysis, and long-term data wrangling and statistical modelling.
-- **Modelling habitat change** – I use remote-sensed data to build Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to see how the quality and distribution of foods has changed at Gombe since the early 1980s.
-- **Chimpanzees as surveyors** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. Data collected over the past 65 years have captured where chimpanzees fed on various plants, serving as a way to identify the known presence of these food species.
-- **Diet and biomarkers** – I apply non-invasive methods to collect urinary biomarkers of energetic state to better understand how diet shapes energy availability in chimpanzees.
-- **Behavioral ecology** – Combining these data sources with decades of long-term social and reproductive data, I use statistical analyses to link spatial characteristics of feeding habitats to complex behaviors that occur when the energetic constraints of grouping are relaxed. 
+- **Modelling Habitat Change** – I use remote-sensed data to build Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to see how the quality and distribution of foods has changed at Gombe since the early 1980s.
+
+- **Levering Long-term data** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. Data collected over the past 65 years have captured where chimpanzees fed on various plants, serving as a way to identify the known presence of these food species.
+
+- **Diet and Biomarkers** – I apply non-invasive methods to collect urinary biomarkers of energetic state to better understand how diet shapes energy availability in chimpanzees.
+
+- **Behavioral Ecology** – Combining these data sources with decades of long-term social and reproductive data, I use statistical analyses to link spatial characteristics of feeding habitats to complex behaviors that occur when the energetic constraints of grouping are relaxed. 
 
 
 ---
 
 ## Featured Research Awards
 My work has been generously funded by the following:
-- **National Science Foundation DDRIG** – 
-- **The Leakey Foundation** - 
+- **National Science Foundation DDRIG** – $25,200 - _Doctoral Dissertation Research Improvement Grant: Wild primate responses to variation in feeding habitat quality_ (2023)
+
+- **The Leakey Foundation** - $14,304 - _Research Grant_ (2022)
 
 
 ---
 
 ## Curriculum Vitae
-A detailed account of my academic training, research experience, and publications is available here:  [View CV](/cv)  
+A detailed account of my academic training, research experience, and teaching record is available here:  [View CV](/cv)  
 
 ---
 
