@@ -33,7 +33,7 @@ My dissertation research is currently conducted at **Arizona State University**,
 
 ## Methodological Approaches
 
-**Archival Data** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. I analyze data collected over the past 65 years that capture demography, reproduction, sociality, *and more* to answer questions about changes in behavior during habitat change. 
+**Archival Observational Data** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. I analyze data collected over the past 65 years that capture demography, reproduction, sociality, *and more* to answer questions about changes in behavior during habitat change. 
 
 **Spatial Analysis** – I use historic behavioral data and remote-sensed imagery to construct Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to assess the feeding habitat quality of Gombe National Park at regular intervals across the last four decades.
 
