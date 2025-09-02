@@ -3,23 +3,33 @@ layout: page
 title: ""
 ---
 ## Research Interests
-I seek to better understand how the **distribution and value of key resources shape the movement of individuals, their interactions, and the demography of populations**. 
 
-My current research focuses on two communities of chimpanzees in **Gombe National Park, Tanzania** - a habitat that's experienced significant longitudinal change since the 1960s. This population serves as a valuable case study for exploring the ways in which habitat variation across space and time can drive variation in the complex social interactions of our evolutionary cousins.
+*I explore how the distribution and value of key resources shape the movement of individuals, their interactions, and the demography of populations*. 
+
+My current research focuses on two communities of **chimpanzees in Gombe National Park, Tanzania** - a habitat that's experienced significant longitudinal change since the 1960s. This population serves as a valuable case study for exploring the ways in which habitat heterogeneity across space and time can drive variation in the complex social interactions of our close evolutionary relatives.
 
 I conduct my dissertation research at **Arizona State University**, which houses the **Jane Goodall Institute Gombe Research Archive**.
 
+---
+
+## Featured Citations
+**Roivas, S. L.**, & Gilby, I. C. 2022. How closely does chimpanzee diet predict environmental fruit availability at Gombe National Park?. *American Journal of Biological Anthropology, 177*, 154.
+
+**Roivas, S. L.**, & Gilby, I. C. 2021. Modification of chimpanzee diet composition in response to long-term habitat change. *American Journal of Biological Anthropology, 174*, 90.
+
+Schultz, J. M., **Roivas, S. L.**, Hoffman, M., & Gilby, I. C. (2024, April). Ecological and social pressures shape chimpanzee nest site selection. *American Journal of Biological Anthropology, 183*, 161.
+
+Klopfenstein, M., **Roivas, S.L.**, & Gilby, I.C. (2025, March). Mothers' presence is associated with riskier aggression in female chimpanzees. American Journal of Biological Anthropology, 186*, 88.
 
 ---
 
-## Research Approaches
-By combining these approaches, my work identify links between spatial characteristics of feeding habitats to behaviors that occur when the energetic constraints on reproduction, general gregariousness, and complex sociality are relaxed. 
-- **Spatial Models** – Using remote-sensed data, I build Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to see how the quality and distribution of foods has changed at Gombe over the last four decades.
+## Methodological Approaches
+
+- **Spatial Models** – Using remote-sensed data, I build Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to detect how the quality and distribution of foods has changed at Gombe over the last four decades.
 
 - **Biomarker Analysis** – I apply non-invasive methods to collect urinary biomarkers of energetic state to better understand how diet shapes energy availability in chimpanzees.
 
 - **Archival Data** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. Data collected over the past 65 years have captured demography, reproduction, sociality, more. 
-
 
 ---
 
@@ -34,7 +44,7 @@ By combining these approaches, my work identify links between spatial characteri
 ## Teaching & Mentorship
 I have served as a course instructor, independent research advisor, and adjunct faculty at Arizona State University and Rio Salado College.
 
-Select mentorship projects (undergraduate and graduate) include:
+Previous mentorship projects (undergraduate and graduate) include:
 - _“Ecological and social pressures shape chimpanzee nest site selection”_
 - _“Maternity leave in female chimpanzees: Social responses to the constraints of motherhood”_
 - _“Mothers’ presence is associated with riskier aggression in female chimpanzees”_
