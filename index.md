@@ -10,6 +10,8 @@ My  research focuses on two communities of **chimpanzees in Gombe National Park,
 
 My dissertation research is currently conducted at **Arizona State University**, which houses the **Jane Goodall Institute Gombe Research Archive**.
 
+*I'm currently applying for positions with start dates after Spring 2026.*
+
 ---
 
 ## Featured Citations
@@ -24,7 +26,7 @@ My dissertation research is currently conducted at **Arizona State University**,
 ---
 
 ## Featured Research Grants
-
+ 
 **National Science Foundation – $25,200** - _Doctoral Dissertation Research Improvement Grant (DDRIG): Wild primate responses to variation in feeding habitat quality_ 
 
 **The Leakey Foundation - $14,304** - _Research Grant_ 
@@ -52,14 +54,17 @@ My dissertation research is currently conducted at **Arizona State University**,
 ---
 
 ## Teaching & Mentorship
-**Arizona State University** - Course instructor, independent research advisor (undergraduate and graduate), undergraduate thesis committee member
+ 
+**Arizona State University**
+- Course instructor, independent research advisor (undergraduate and graduate), senior thesis committee member
 
-**Rio Salado College** - Adjunct faculty 
+**Rio Salado College** 
+- Adjunct faculty 
 
 **Mentorship projects using the long-term Gombe Research Archives include:**
-- “Ecological and social pressures shape chimpanzee nest site selection”
-- “Maternity leave in female chimpanzees: Social responses to the constraints of motherhood”
-- “Mothers’ presence is associated with riskier aggression in female chimpanzees”
+- Ecological and social pressures shape chimpanzee nest site selection
+- Maternity leave in female chimpanzees: Social responses to the constraints of motherhood
+- Mothers’ presence is associated with riskier aggression in female chimpanzees
 
 ---
 
@@ -72,12 +77,13 @@ My dissertation research is currently conducted at **Arizona State University**,
 ---
 
 ## Curriculum Vitae
-A detailed account of my academic training, research experience, and teaching record is available [here](https://docs.google.com/document/d/1h_WqnBvjqwgTYDTpesCvbAA6FpGEaqVP/edit?usp=sharing&ouid=112979041482582723813&rtpof=true&sd=true).
+A full account of my academic training, research experience, and teaching record is available [here](https://docs.google.com/document/d/1h_WqnBvjqwgTYDTpesCvbAA6FpGEaqVP/edit?usp=sharing&ouid=112979041482582723813&rtpof=true&sd=true).
 
 ---
 
 ## Contact
-I welcome academic collaborations and opportunities to share my work.  You can email me at   **sroivas@asu.edu**.
+
+I'm always excited to hear about open roles, academic collaborations, and opportunities to share my work. Please contact me via email at **sroivas@asu.edu**.
 
 ---
 
