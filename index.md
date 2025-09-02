@@ -3,9 +3,9 @@ layout: page
 title: ""
 ---
 
-I seek to better understand how the real, three-dimensional space of a landscape drives behavior. Specifically, how does the distribution and value of key resources shape the movement of individuals and how they interact? My current research focuses on Gombe National Park, a habitat that's experienced longitudinal change since the 1960s, as a case study for exploring the ways in which habitat variation across space and time can drive variation in the complex social interactions of our evolutionary cousins, chimpanzees.
+I seek to better understand how the real, three-dimensional space of a landscape drives behavior. Specifically, **how does the distribution and value of key resources shape the movement of individuals and how they interact?** My current research focuses on *Gombe National Park*, a habitat that's experienced longitudinal change since the 1960s, as a case study for exploring the ways in which habitat variation across space and time can drive variation in the complex social interactions of our evolutionary cousins, *chimpanzees*.
 
-I'm currently conducting my dissertation research at Arizona State University,  home to the the Jane Goodall Institute Gombe Research Archive.
+I'm currently conducting my dissertation research at *Arizona State University*,  home to the the Jane Goodall Institute Gombe Research Archive.
 
 
 ---
@@ -31,21 +31,21 @@ My work has been generously funded by many sources, including:
 
 ---
 
-## Mentorship & Teaching
-I've served as an instructor and independent research advisor at Arizona State University and adjunct faculty at Rio Salado College.
+## Teaching & Mentorship
+I've served as a course instructor, independent research advisor, and adjunct faculty at Arizona State University and adjunct faculty at Rio Salado College.
 
 **Select undergraduate and graduate mentorship projects include:** 
 - _“Ecological and social pressures shape chimpanzee nest site selection”_
 - _“Maternity leave in female chimpanzees: Social responses to the constraints of motherhood”_
-- _“FMothers’ presence is associated with riskier aggression in female chimpanzees”_
+- _“Mothers’ presence is associated with riskier aggression in female chimpanzees”_
 
 ---
 
 ## Awards and Honors
- - 2024	_Outstanding Mentor Award_, Graduate Professional Student Association, ASU
- - 2023	_Donald H. Morris Award for Outstanding Doctoral Student in Evolutionary Anthropology_, School of Human Evolution and Social Change, ASU
- - 2021	_Graduate Student Teaching Award_, School of Human Evolution and Social Change, ASU
- - 2021	_Teaching Excellence Award_, Graduate Professional Student Association, ASU
+ - _Outstanding Mentor Award_ (2024)
+ - _Donald H. Morris Award for Outstanding Doctoral Student in Evolutionary Anthropology_ (2023)
+ - _Graduate Student Teaching Award_ (2021)
+ - _Teaching Excellence Award_ (2021)
 
 ---
 
