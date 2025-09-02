@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Home"
+title: "Welcome"
 ---
 
-# Welcome
+I'm interested in better understanding how behavior occurs in the real, three-dimensional space of a landscape. Specifically, how does the distribution and value of key resources shape the movement of individuals and how they interact? My current research focuses Gombe National Park, a habitat that's experienced longitudinal change since the 1960s, as a case study for exploring the ways in which habitat variation across space and time can drive variation in the complex social interactions of our evolutionary coursins, chimpanzees.
 
-I'm interested in better understanding how spacial attributes of an environment shape behavior. My current research focuses on the intersections of **primate behavior, ecology, and habitat change**, with a special focus on long-term data from **Gombe National Park, Tanzania**. My methods combine longitudinal habitat modelling from remote-sensed data, spatial analysis, behavioral observation in the field, and noninvasive biomarker collection. I'm currently conducting my dissertation research at Arizona State University, home of the the Jane Goodall Institute Gombe Research Archive.
+My methods combine habitat modelling from historic remote-sensed data, spatial analysis, behavioral observation in the field, and noninvasive biomarker collection. I'm currently conducting my dissertation research at Arizona State University, home of the the Jane Goodall Institute Gombe Research Archive.
 
 This site serves as my academic portfolio, featuring my research activities, teaching experience, and ways to connect.  
 
