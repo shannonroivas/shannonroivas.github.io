@@ -2,13 +2,21 @@
 layout: page
 title: ""
 ---
-### I'm interested in exploring how the spatial distribution of key resources in a landscape shape the demography of populations, the movement of individuals, and their sociality.
+### I'm interested in exploring how the spatial distribution of resources in a landscape shape the demography of animal populations, the movement of individuals, and their sociality.
 
 My  research focuses on two communities of **chimpanzees in Gombe National Park, Tanzania** - a habitat that's experienced significant longitudinal change since the 1960s. This population serves as a valuable case study for exploring the ways in which habitat heterogeneity across space and time can drive variation in the complex social interactions of our close evolutionary relatives.
 
-My dissertation research is conducted at **Arizona State University**, which houses the **Jane Goodall Institute Gombe Research Archive**.
+My dissertation research is conducted at **Arizona State University**, which houses the **Jane Goodall Institute Gombe Research Archive**. _I'm currently applying for positions with start dates after Spring 2026._
 
-_I'm currently applying for positions with start dates after Spring 2026._
+---
+
+## Methodological Approaches
+
+**Archival Observational Data** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. I analyze data collected over the past 65 years that capture demography, reproduction, sociality, *and more* to answer questions about changes in behavior during habitat change. 
+
+**Spatial Analysis** – I use historic behavioral data and remote-sensed imagery to construct Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to assess the feeding habitat quality of Gombe National Park at regular intervals across the last four decades.
+
+**Biomarker Analysis** – My extensive fieldwork experience includes applying non-invasive methods to collect hundreds of samples for measurement of urinary C-peptide of insulin in order to better understand how diet shapes energy availability in chimpanzees.
 
 ---
 
@@ -28,16 +36,6 @@ _I'm currently applying for positions with start dates after Spring 2026._
 **National Science Foundation – $25,200** - _Doctoral Dissertation Research Improvement Grant (DDRIG): Wild primate responses to variation in feeding habitat quality_ 
 
 **The Leakey Foundation - $14,304** - _Research Grant_ 
-
----
-
-## Methodological Approaches
-
-**Archival Observational Data** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. I analyze data collected over the past 65 years that capture demography, reproduction, sociality, *and more* to answer questions about changes in behavior during habitat change. 
-
-**Spatial Analysis** – I use historic behavioral data and remote-sensed imagery to construct Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to assess the feeding habitat quality of Gombe National Park at regular intervals across the last four decades.
-
-**Biomarker Analysis** – My extensive fieldwork experience includes applying non-invasive methods to collect hundreds of samples for measurement of urinary C-peptide of insulin in order to better understand how diet shapes energy availability in chimpanzees.
 
 ---
 
