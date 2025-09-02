@@ -2,15 +2,13 @@
 layout: page
 title: ""
 ---
-## Research Interests
-
-I explore how the distribution and value of key resources in a landscape shape the demography of populations, the movement of individuals, and their sociality.
+### I'm interested in exploring how the spatial distribution of key resources in a landscape shape the demography of populations, the movement of individuals, and their sociality.
 
 My  research focuses on two communities of **chimpanzees in Gombe National Park, Tanzania** - a habitat that's experienced significant longitudinal change since the 1960s. This population serves as a valuable case study for exploring the ways in which habitat heterogeneity across space and time can drive variation in the complex social interactions of our close evolutionary relatives.
 
-My dissertation research is currently conducted at **Arizona State University**, which houses the **Jane Goodall Institute Gombe Research Archive**.
+My dissertation research is conducted at **Arizona State University**, which houses the **Jane Goodall Institute Gombe Research Archive**.
 
-*I'm currently applying for positions with start dates after Spring 2026.*
+_I'm currently applying for positions with start dates after Spring 2026._
 
 ---
 
