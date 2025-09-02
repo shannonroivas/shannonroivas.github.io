@@ -13,17 +13,17 @@ I'm currently conducting my dissertation research at **Arizona State University*
 ## Methods
 - **Spatial Models** – I use remote-sensed data to build Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to see how the quality and distribution of foods has changed at Gombe since the early 1980s.
 
-- **Archival Data** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. Data collected over the past 65 years have captured where chimpanzees fed on various plants, serving as a way to identify the known presence of these food species.
-
 - **Biomarker Analysis** – I apply non-invasive methods to collect urinary biomarkers of energetic state to better understand how diet shapes energy availability in chimpanzees.
 
-- **Behavioral Ecology** – Combining these data sources with decades of long-term social and reproductive data, I stastical modelling to identify links between spatial characteristics of feeding habitats to complex behaviors that occur when the energetic constraints of grouping are relaxed. 
+- **Archival Data** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. Data collected over the past 65 years have captured demography, reproduction, sociality, more. 
+
+By combining these approaches, I can use statistical modeling to identify links between spatial characteristics of feeding habitats to complex behaviors that occur when the energetic constraints of grouping are relaxed. 
 
 
 ---
 
 ## Research Grants
-My work has been generously funded by many sources, including:
+My work has been funded by several sources, including:
 - **National Science Foundation DDRIG** – $25,200 - _Doctoral Dissertation Research Improvement Grant: Wild primate responses to variation in feeding habitat quality_ (2023)
 
 - **The Leakey Foundation** - $14,304 - _Research Grant_ (2022)
@@ -32,7 +32,7 @@ My work has been generously funded by many sources, including:
 ---
 
 ## Teaching & Mentorship
-I've served as a course instructor, independent research advisor, and adjunct faculty at Arizona State University and adjunct faculty at Rio Salado College.
+I've served as a course instructor, independent research advisor, and adjunct faculty at Arizona State University and Rio Salado College.
 
 **Select undergraduate and graduate mentorship projects include:** 
 - _“Ecological and social pressures shape chimpanzee nest site selection”_
@@ -42,10 +42,10 @@ I've served as a course instructor, independent research advisor, and adjunct fa
 ---
 
 ## Awards and Honors
- - _Outstanding Mentor Award_ (2024)
- - _Donald H. Morris Award for Outstanding Doctoral Student in Evolutionary Anthropology_ (2023)
- - _Graduate Student Teaching Award_ (2021)
- - _Teaching Excellence Award_ (2021)
+ - Outstanding Mentor Award (2024)
+ - Donald H. Morris Award for Outstanding Doctoral Student in Evolutionary Anthropology (2023)
+ - Graduate Student Teaching Award (2021)
+ - Teaching Excellence Award (2021)
 
 ---
 
