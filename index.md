@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 ---
 ## Research Interests
 
@@ -24,9 +24,10 @@ My dissertation research is currently conducted at **Arizona State University**,
 ---
 
 ## Featured Research Grants
-- **National Science Foundation** – $25,200 - _Doctoral Dissertation Research Improvement Grant: Wild primate responses to variation in feeding habitat quality_ 
 
-- **The Leakey Foundation** - $14,304 - _Research Grant_ 
+**National Science Foundation – $25,200** - _Doctoral Dissertation Research Improvement Grant (DDRIG): Wild primate responses to variation in feeding habitat quality_ 
+
+**The Leakey Foundation - $14,304** - _Research Grant_ 
 
 ---
 
@@ -36,7 +37,7 @@ My dissertation research is currently conducted at **Arizona State University**,
 
 **Spatial Analysis** – I use historic behavioral data and remote-sensed imagery to construct Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to assess the feeding habitat quality of Gombe National Park at regular intervals across the last four decades.
 
-**Biomarker Analysis** – My extensive fieldwork experience includes applying non-invasive methods to collect hundreds of samples for a urinary biomarker of energetic state (C-peptide of insulin) in order to better understand how diet shapes energy availability in chimpanzees.
+**Biomarker Analysis** – My extensive fieldwork experience includes applying non-invasive methods to collect hundreds of samples for measurement of urinary C-peptide of insulin in order to better understand how diet shapes energy availability in chimpanzees.
 
 ---
 
@@ -55,7 +56,7 @@ My dissertation research is currently conducted at **Arizona State University**,
 
 **Rio Salado College** - Adjunct faculty 
 
-**Previous mentorship projects using the long-term Gombe Research Archives include:**
+**Mentorship projects using the long-term Gombe Research Archives include:**
 - “Ecological and social pressures shape chimpanzee nest site selection”
 - “Maternity leave in female chimpanzees: Social responses to the constraints of motherhood”
 - “Mothers’ presence is associated with riskier aggression in female chimpanzees”
