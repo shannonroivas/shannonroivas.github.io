@@ -4,7 +4,7 @@ title: ""
 ---
 ## Research Interests
 
-**I explore how the distribution and value of key resources in a landscape shape the demography of populations, the movement of individuals, and their sociality.**
+I explore how the distribution and value of key resources in a landscape shape the demography of populations, the movement of individuals, and their sociality.
 
 My  research focuses on two communities of **chimpanzees in Gombe National Park, Tanzania** - a habitat that's experienced significant longitudinal change since the 1960s. This population serves as a valuable case study for exploring the ways in which habitat heterogeneity across space and time can drive variation in the complex social interactions of our close evolutionary relatives.
 
