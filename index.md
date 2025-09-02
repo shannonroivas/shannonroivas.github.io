@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: 
 ---
 ## Research Interests
 
@@ -55,7 +55,7 @@ My dissertation research is currently conducted at **Arizona State University**,
 
 **Rio Salado College** - Adjunct faculty 
 
-Previous mentorship projects using the long-term Gombe Research Archives include:
+**Previous mentorship projects using the long-term Gombe Research Archives include:**
 - “Ecological and social pressures shape chimpanzee nest site selection”
 - “Maternity leave in female chimpanzees: Social responses to the constraints of motherhood”
 - “Mothers’ presence is associated with riskier aggression in female chimpanzees”
