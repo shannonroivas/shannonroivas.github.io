@@ -11,24 +11,41 @@ I'm currently conducting my dissertation research at Arizona State University,  
 ---
 
 ## Research Methods
-My methods reflect a combination of noninvasive fieldwork, spatial analysis, and long-term data wrangling and statistical modelling.
-- **Modelling Habitat Change** – I use remote-sensed data to build Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to see how the quality and distribution of foods has changed at Gombe since the early 1980s.
+- **Spatial Models** – I use remote-sensed data to build Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to see how the quality and distribution of foods has changed at Gombe since the early 1980s.
 
-- **Levering Long-term data** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. Data collected over the past 65 years have captured where chimpanzees fed on various plants, serving as a way to identify the known presence of these food species.
+- **Archival Data** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. Data collected over the past 65 years have captured where chimpanzees fed on various plants, serving as a way to identify the known presence of these food species.
 
-- **Diet and Biomarkers** – I apply non-invasive methods to collect urinary biomarkers of energetic state to better understand how diet shapes energy availability in chimpanzees.
+- **Biomarker Analysis** – I apply non-invasive methods to collect urinary biomarkers of energetic state to better understand how diet shapes energy availability in chimpanzees.
 
-- **Behavioral Ecology** – Combining these data sources with decades of long-term social and reproductive data, I use statistical analyses to link spatial characteristics of feeding habitats to complex behaviors that occur when the energetic constraints of grouping are relaxed. 
+- **Behavioral Ecology** – Combining these data sources with decades of long-term social and reproductive data, I stastical modelling to identify links between spatial characteristics of feeding habitats to complex behaviors that occur when the energetic constraints of grouping are relaxed. 
 
 
 ---
 
-## Featured Research Awards
-My work has been generously funded by the following:
+## Research Grants
+My work has been generously funded by many sources, including:
 - **National Science Foundation DDRIG** – $25,200 - _Doctoral Dissertation Research Improvement Grant: Wild primate responses to variation in feeding habitat quality_ (2023)
 
 - **The Leakey Foundation** - $14,304 - _Research Grant_ (2022)
 
+
+---
+
+## Mentorship & Teaching
+I've served as an instructor and independent research advisor at Arizona State University and adjunct faculty at Rio Salado College.
+
+**Select undergraduate and graduate mentorship projects include:** 
+- _“Ecological and social pressures shape chimpanzee nest site selection”_
+- _“Maternity leave in female chimpanzees: Social responses to the constraints of motherhood”_
+- _“FMothers’ presence is associated with riskier aggression in female chimpanzees”_
+
+---
+
+## Awards and Honors
+ - 2024	_Outstanding Mentor Award_, Graduate Professional Student Association, ASU
+ - 2023	_Donald H. Morris Award for Outstanding Doctoral Student in Evolutionary Anthropology_, School of Human Evolution and Social Change, ASU
+ - 2021	_Graduate Student Teaching Award_, School of Human Evolution and Social Change, ASU
+ - 2021	_Teaching Excellence Award_, Graduate Professional Student Association, ASU
 
 ---
 
@@ -38,8 +55,7 @@ A detailed account of my academic training, research experience, and teaching re
 ---
 
 ## Contact
-I welcome academic collaborations and opportunities to share my work.  
-You can reach me at   **sroivas@asu.edu**  or connect via:  [GitHub](https://github.com/shannonroivas)
+I welcome academic collaborations and opportunities to share my work.  You can reach me at   **sroivas@asu.edu**  or connect via  [GitHub](https://github.com/shannonroivas)
 
 ---
 
