@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welcome"
+title: "Research Interests"
 ---
 
 I seek to better understand how the real, three-dimensional space of a landscape drives behavior. Specifically, **how does the distribution and value of key resources shape the movement of individuals and how they interact?** My current research focuses on **Gombe National Park**, a habitat that's experienced longitudinal change since the 1960s, as a case study for exploring the ways in which habitat variation across space and time can drive variation in the complex social interactions of our evolutionary cousins, **chimpanzees**.
@@ -10,7 +10,7 @@ I'm currently conducting my dissertation research at **Arizona State University*
 
 ---
 
-## Research Methods
+## Methods
 - **Spatial Models** – I use remote-sensed data to build Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to see how the quality and distribution of foods has changed at Gombe since the early 1980s.
 
 - **Archival Data** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. Data collected over the past 65 years have captured where chimpanzees fed on various plants, serving as a way to identify the known presence of these food species.
