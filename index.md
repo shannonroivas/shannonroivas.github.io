@@ -71,7 +71,7 @@ Previous mentorship projects include:
 ---
 
 ## Curriculum Vitae
-A detailed account of my academic training, research experience, and teaching record is available [here](/cv).
+A detailed account of my academic training, research experience, and teaching record is available [here](https://docs.google.com/document/d/1h_WqnBvjqwgTYDTpesCvbAA6FpGEaqVP/edit?usp=sharing&ouid=112979041482582723813&rtpof=true&sd=true).
 
 ---
 
