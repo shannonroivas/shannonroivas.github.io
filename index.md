@@ -13,13 +13,13 @@ My dissertation research is currently conducted at **Arizona State University**,
 ---
 
 ## Featured Citations
-**Roivas, S. L.**, & Gilby, I. C. 2022. How closely does chimpanzee diet predict environmental fruit availability at Gombe National Park?. *American Journal of Biological Anthropology, 177*, 154.
+- **Roivas, S. L.**, & Gilby, I. C. 2022. How closely does chimpanzee diet predict environmental fruit availability at Gombe National Park?. *American Journal of Biological Anthropology, 177*, 154.
 
-**Roivas, S. L.**, & Gilby, I. C. 2021. Modification of chimpanzee diet composition in response to long-term habitat change. *American Journal of Biological Anthropology, 174*, 90.
+- **Roivas, S. L.**, & Gilby, I. C. 2021. Modification of chimpanzee diet composition in response to long-term habitat change. *American Journal of Biological Anthropology, 174*, 90.
 
-Schultz, J. M., **Roivas, S. L.**, Hoffman, M., & Gilby, I. C. (2024, April). Ecological and social pressures shape chimpanzee nest site selection. *American Journal of Biological Anthropology, 183*, 161.
+- Schultz, J. M., **Roivas, S. L.**, Hoffman, M., & Gilby, I. C. (2024, April). Ecological and social pressures shape chimpanzee nest site selection. *American Journal of Biological Anthropology, 183*, 161.
 
-Klopfenstein, M., **Roivas, S.L.**, & Gilby, I.C. (2025, March). Mothers' presence is associated with riskier aggression in female chimpanzees. American Journal of Biological Anthropology, 186*, 88.
+- Klopfenstein, M., **Roivas, S.L.**, & Gilby, I.C. (2025, March). Mothers' presence is associated with riskier aggression in female chimpanzees. American Journal of Biological Anthropology, 186*, 88.
 
 ---
 
@@ -32,33 +32,33 @@ Klopfenstein, M., **Roivas, S.L.**, & Gilby, I.C. (2025, March). Mothers' presen
 
 ## Methodological Approaches
 
-- **Spatial Models** – Using remote-sensed data, I build Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to detect how the quality and distribution of foods has changed at Gombe over the last four decades.
+**Spatial Analysis** – Using remote-sensed data, I construction Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to assess the feeding habitat quality of Gombe National Park at regular intervals across the last four decades.
 
-- **Biomarker Analysis** – I apply non-invasive methods to collect urinary biomarkers of energetic state to better understand how diet shapes energy availability in chimpanzees.
+**Biomarker Analysis** – My extensive fieldwork experience includes applying non-invasive methods to collect a urinary biomarker of energetic state (C-peptide of insulin) across hundreds of samples in order to better understand how diet shapes energy availability in chimpanzees.
 
-- **Archival Data** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. Data collected over the past 65 years have captured demography, reproduction, sociality, more. 
+**Archival Data** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. Data collected over the past 65 years have captured demography, reproduction, sociality, and more to answer questions about changes in behavior during habitat change. 
 
 ---
 
 ## Education
 
-PhD Anthropology, _Arizona State University (Expected 2026)_
+- PhD Anthropology, _Arizona State University (Expected 2026)_
 
-MA Anthropology, _Arizona State University (2021)_
+- MA Anthropology, _Arizona State University (2021)_
 
-BS Evolutionary Anthropology & Biology, _Duke University (2017)_
+- BS Evolutionary Anthropology & Biology, _Duke University (2017)_
 
 ---
 
 ## Teaching & Mentorship
 **Arizona State University** - Course instructor, independent research advisor (undergraduate and graduate), undergraduate thesis committee member
 
-**Rio Salado College** - Adjunct faculty
+**Rio Salado College** - Adjunct faculty 
 
 Previous mentorship projects include:
-- _“Ecological and social pressures shape chimpanzee nest site selection”_
-- _“Maternity leave in female chimpanzees: Social responses to the constraints of motherhood”_
-- _“Mothers’ presence is associated with riskier aggression in female chimpanzees”_
+- “Ecological and social pressures shape chimpanzee nest site selection”
+- “Maternity leave in female chimpanzees: Social responses to the constraints of motherhood”
+- “Mothers’ presence is associated with riskier aggression in female chimpanzees”
 
 ---
 
