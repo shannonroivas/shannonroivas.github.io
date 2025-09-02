@@ -3,9 +3,9 @@ layout: page
 title: ""
 ---
 
-I seek to better understand how the real, three-dimensional space of a landscape drives behavior. Specifically, **how does the distribution and value of key resources shape the movement of individuals and how they interact?** My current research focuses on *Gombe National Park*, a habitat that's experienced longitudinal change since the 1960s, as a case study for exploring the ways in which habitat variation across space and time can drive variation in the complex social interactions of our evolutionary cousins, *chimpanzees*.
+I seek to better understand how the real, three-dimensional space of a landscape drives behavior. Specifically, **how does the distribution and value of key resources shape the movement of individuals and how they interact?** My current research focuses on **Gombe National Park**, a habitat that's experienced longitudinal change since the 1960s, as a case study for exploring the ways in which habitat variation across space and time can drive variation in the complex social interactions of our evolutionary cousins, **chimpanzees**.
 
-I'm currently conducting my dissertation research at *Arizona State University*,  home to the the Jane Goodall Institute Gombe Research Archive.
+I'm currently conducting my dissertation research at **Arizona State University**,  home to the the Jane Goodall Institute Gombe Research Archive.
 
 
 ---
