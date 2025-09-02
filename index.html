@@ -1,37 +1,42 @@
 ---
-layout: default
-title: Home
+layout: page
+title: "Home"
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+# Welcome
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+Hi, I’m **Shannon Roivas**, a PhD Candidate in **Biological Anthropology** at [Your University].  
+My research focuses on the intersections of **primate behavior, ecology, and physiology**, with a special focus on long-term data from **Gombe National Park, Tanzania**.  
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+This site serves as my academic portfolio, featuring my research, CV, and ways to connect.  
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+---
+
+## 🔬 Research Focus
+- **Primate growth and development** – exploring the impact of maternal loss and social factors.  
+- **Behavioral ecology** – linking spatial patterns with long-term ecological data.  
+- **Physiology and health** – analyzing biomarkers from urine and other non-invasive methods.  
+
+📖 Learn more on my [Research page](/research).  
+
+---
+
+## 📄 Curriculum Vitae
+A detailed account of my academic training, research experience, and publications is available here:  
+
+👉 [View CV](/cv)  
+
+---
+
+## ✉️ Contact
+I welcome academic collaborations and opportunities to share my work.  
+You can reach me at:  
+📧 **your.email@domain.com**  
+
+Or connect via:  
+- [GitHub Profile](https://github.com/username)  
+- [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+
+---
+
+*Last updated: {{ site.time | date: "%B %Y" }}*
