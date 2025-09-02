@@ -3,9 +3,9 @@ layout: page
 title: ""
 ---
 ## Research Interests
-I seek to better understand **how the distribution and value of key resources shape the movement of individuals, their interactions, and the demography of populations**. My current research focuses on two communities of chimpanzees in Gombe National Park, Tanzania - a habitat that's experienced longitudinal change since the 1960s. This population serves as a valuable case study for exploring the ways in which habitat variation across space and time can drive variation in the complex social interactions of our evolutionary cousins.
+I seek to better understand how the **distribution and value of key resources** shape the **movement of individuals, their interactions, and the demography of populations**. My current research focuses on two communities of chimpanzees in Gombe National Park, Tanzania - a habitat that's experienced significant longitudinal change since the 1960s. This population serves as a valuable case study for exploring the ways in which habitat variation across space and time can drive variation in the complex social interactions of our evolutionary cousins.
 
-I conduct my dissertation research at **Gombe National Park, Tanzania** and **Arizona State University**, which houses the Jane Goodall Institute Gombe Research Archive.
+I conduct my dissertation research at **Arizona State University**, which houses the Jane Goodall Institute Gombe Research Archive.
 
 
 ---
