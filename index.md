@@ -4,11 +4,11 @@ title: ""
 ---
 ## Research Interests
 
-*I explore how the distribution and value of key resources shape the movement of individuals, their interactions, and the demography of populations*. 
+_**I explore how the distribution and value of key resources in a landscape shape the demography of populations, the movement of individuals, and their sociality.**_
 
 My current research focuses on two communities of **chimpanzees in Gombe National Park, Tanzania** - a habitat that's experienced significant longitudinal change since the 1960s. This population serves as a valuable case study for exploring the ways in which habitat heterogeneity across space and time can drive variation in the complex social interactions of our close evolutionary relatives.
 
-I conduct my dissertation research at **Arizona State University**, which houses the **Jane Goodall Institute Gombe Research Archive**.
+My dissertation research is currently conducted at **Arizona State University**, which houses the **Jane Goodall Institute Gombe Research Archive**.
 
 ---
 
@@ -23,6 +23,13 @@ Klopfenstein, M., **Roivas, S.L.**, & Gilby, I.C. (2025, March). Mothers' presen
 
 ---
 
+## Featured Research Grants
+- **National Science Foundation** – $25,200 - _Doctoral Dissertation Research Improvement Grant: Wild primate responses to variation in feeding habitat quality_ (2023)
+
+- **The Leakey Foundation** - $14,304 - _Research Grant_ (2022)
+
+---
+
 ## Methodological Approaches
 
 - **Spatial Models** – Using remote-sensed data, I build Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to detect how the quality and distribution of foods has changed at Gombe over the last four decades.
@@ -33,25 +40,29 @@ Klopfenstein, M., **Roivas, S.L.**, & Gilby, I.C. (2025, March). Mothers' presen
 
 ---
 
-## Research Grants
-- **National Science Foundation** – $25,200 - _Doctoral Dissertation Research Improvement Grant: Wild primate responses to variation in feeding habitat quality_ (2023)
+## Education
 
-- **The Leakey Foundation** - $14,304 - _Research Grant_ (2022)
+PhD Anthropology, _Arizona State University (Expected 2026)_
 
+MA Anthropology, _Arizona State University (2021)_
+
+BS Evolutionary Anthropology & Biology, _Duke University (2017)_
 
 ---
 
 ## Teaching & Mentorship
-I have served as a course instructor, independent research advisor, and adjunct faculty at Arizona State University and Rio Salado College.
+**Arizona State University** - Course instructor, independent research advisor (undergraduate and graduate), undergraduate thesis committee member
 
-Previous mentorship projects (undergraduate and graduate) include:
+**Rio Salado College** - Adjunct faculty
+
+Previous mentorship projects include:
 - _“Ecological and social pressures shape chimpanzee nest site selection”_
 - _“Maternity leave in female chimpanzees: Social responses to the constraints of motherhood”_
 - _“Mothers’ presence is associated with riskier aggression in female chimpanzees”_
 
 ---
 
-## Awards and Honors
+## Featured Awards and Honors
  - Outstanding Mentor Award (2024)
  - Donald H. Morris Award for Outstanding Doctoral Student in Evolutionary Anthropology (2023)
  - Graduate Student Teaching Award (2021)
