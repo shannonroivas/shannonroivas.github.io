@@ -57,14 +57,6 @@ My dissertation research is conducted at **Arizona State University's Institute 
 
 ---
 
-### Featured Awards and Honors
- - Outstanding Mentor Award (2024)
- - Teaching Excellence Award (2021)
- - Donald H. Morris Award for Outstanding Doctoral Student in Evolutionary Anthropology (2023)
- - Graduate Student Teaching Award (2021)
-
----
-
 ### Curriculum Vitae
 A full account of my academic training, research experience, and teaching record is available [here](https://docs.google.com/document/d/1h_WqnBvjqwgTYDTpesCvbAA6FpGEaqVP/edit?usp=sharing&ouid=112979041482582723813&rtpof=true&sd=true).
 
