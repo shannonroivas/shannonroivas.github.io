@@ -3,15 +3,17 @@ layout: page
 title: "How do the spatial characteristics of landscapes shape the demography, movement, and sociality of populations?"
 ---
 
-My  research focuses on two communities of **chimpanzees in Gombe National Park, Tanzania** - a habitat that's experienced significant longitudinal change since the 1960s. This population serves as a valuable case study for exploring the ways in which habitat heterogeneity across space and time can drive variation in the complex social interactions of our close evolutionary relatives.
+My  research focuses on two communities of **chimpanzees** in **Gombe National Park, Tanzania** - a habitat that's experienced significant longitudinal change since the 1960s. This population serves as a valuable case study for exploring the ways in which feeding habitat heterogeneity across space and time can drive variation in the complex social interactions of our close evolutionary relatives.
 
-My dissertation research is conducted at **Arizona State University**, which houses the **Jane Goodall Institute Gombe Research Archive**. _I'm currently applying for positions with start dates after Spring 2026._
+My dissertation research is conducted at **Arizona State University**, which houses the **Jane Goodall Institute Gombe Research Archive**. 
+
+_I'm currently applying for positions with start dates on/after Spring 2026._
 
 ---
 
 ## Methodological Approaches
 
-**Archival Observational Data** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. I analyze data collected over the past 65 years that capture demography, reproduction, sociality, *and more* to answer questions about changes in behavior during habitat change. 
+**Archival Observational Data** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. I analyze data collected over the past 65 years that capture demography, reproduction, sociality, and more to answer questions about changes in behavior during habitat change. 
 
 **Spatial Analysis** – I use historic behavioral data and remote-sensed imagery to construct Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to assess the feeding habitat quality of Gombe National Park at regular intervals across the last four decades.
 
@@ -38,16 +40,6 @@ My dissertation research is conducted at **Arizona State University**, which hou
 
 ---
 
-## Education
-
-- PhD Anthropology, _Arizona State University (Expected 2026)_
-
-- MA Anthropology, _Arizona State University (2021)_
-
-- BS Evolutionary Anthropology & Biology, _Duke University (2017)_
-
----
-
 ## Teaching & Mentorship
  
 **Arizona State University**
@@ -60,6 +52,16 @@ My dissertation research is conducted at **Arizona State University**, which hou
 - Ecological and social pressures shape chimpanzee nest site selection
 - Maternity leave in female chimpanzees: Social responses to the constraints of motherhood
 - Mothers’ presence is associated with riskier aggression in female chimpanzees
+
+---
+
+## Education
+
+- PhD Anthropology, _Arizona State University (Expected 2026)_
+
+- MA Anthropology, _Arizona State University (2021)_
+
+- BS Evolutionary Anthropology & Biology, _Duke University (2017)_
 
 ---
 
