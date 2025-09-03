@@ -6,7 +6,7 @@ title: ""
 
 My  research focuses on two communities of **wild chimpanzees** in **Gombe National Park, Tanzania** - a habitat that's experienced significant longitudinal change since the 1960s. This population serves as a valuable case study for exploring the ways in which feeding habitat heterogeneity across space and time can drive variation in the complex social interactions of our close evolutionary relatives.
 
-My dissertation research is conducted at **Arizona State University**, which houses the **Jane Goodall Institute Gombe Research Archive**. 
+My dissertation research is conducted at **Arizona State University's Institute of Human Origins**, which houses the **Jane Goodall Institute Gombe Research Archive**. 
 
 _I'm currently applying for positions with start dates on/after Spring 2026._
 
