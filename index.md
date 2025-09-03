@@ -1,14 +1,12 @@
----
+<img width="468" height="641" alt="image" src="https://github.com/user-attachments/assets/95ec911f-ac60-465a-9ced-254b4b95e612" />---
 layout: page
 title: ""
 ---
 ## How do landscapes shape the demography, movement, and sociality of populations?
 
-My  research focuses on two communities of **wild chimpanzees** in **Gombe National Park, Tanzania** - a habitat that's experienced significant longitudinal change since the 1960s. This population serves as a valuable case study for exploring the ways in which feeding habitat heterogeneity across space and time can drive variation in the complex social interactions of our close evolutionary relatives.
+My  research focuses on two communities of wild chimpanzees in Gombe National Park, Tanzania - a habitat that's experienced significant longitudinal change since the 1960s. This population serves as a valuable case study for exploring the ways in which feeding habitat heterogeneity across space and time can drive variation in the complex social interactions of our close evolutionary relatives.
 
 My dissertation research is conducted at **Arizona State University's Institute of Human Origins**, which houses the **Jane Goodall Institute Gombe Research Archive**. 
-
-_I'm currently applying for positions with start dates on/after Spring 2026._
 
 ---
 
@@ -78,6 +76,8 @@ A full account of my academic training, research experience, and teaching record
 ---
 
 ### Contact
+
+_I'm currently applying for positions with start dates on/after Spring 2026._
 
 I'm always excited to hear about open roles, academic collaborations, and opportunities to share my work. Please contact me via email at **sroivas@asu.edu**.
 
