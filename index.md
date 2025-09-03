@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-## How do the spatial characteristics of landscapes shape the demography, movement, and sociality of populations?
+## How do landscapes shape the demography, movement, and sociality of populations?
 
 ---
 
