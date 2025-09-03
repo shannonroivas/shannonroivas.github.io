@@ -14,7 +14,7 @@ My CV is available [here](https://docs.google.com/document/d/1h_WqnBvjqwgTYDTpes
 
 ---
 
-### Selected Citations
+### Conference Activity
 
 (2025) Klopfenstein, M., **Roivas, S.L.**, & Gilby, I.C. Mothers' presence is associated with riskier aggression in female chimpanzees. *American Journal of Biological Anthropology, 186*, 88.
 
