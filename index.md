@@ -16,18 +16,18 @@ My CV is available [here](https://docs.google.com/document/d/1h_WqnBvjqwgTYDTpes
 
 ### Selected Citations
 
-2025. Klopfenstein, M., **Roivas, S.L.**, & Gilby, I.C. Mothers' presence is associated with riskier aggression in female chimpanzees. *American Journal of Biological Anthropology, 186*, 88.
+(2025) Klopfenstein, M., **Roivas, S.L.**, & Gilby, I.C. Mothers' presence is associated with riskier aggression in female chimpanzees. *American Journal of Biological Anthropology, 186*, 88.
 
-2024. Schultz, J. M., **Roivas, S. L.**, Hoffman, M., & Gilby, I. C. Ecological and social pressures shape chimpanzee nest site selection. *American Journal of Biological Anthropology, 183*, 161.
+(2024) Schultz, J. M., **Roivas, S. L.**, Hoffman, M., & Gilby, I. C. Ecological and social pressures shape chimpanzee nest site selection. *American Journal of Biological Anthropology, 183*, 161.
 
-2022. **Roivas, S. L.**, & Gilby, I. C. How closely does chimpanzee diet predict environmental fruit availability at Gombe National Park?. *American Journal of Biological Anthropology, 177*, 154.
+(2022) **Roivas, S. L.**, & Gilby, I. C. How closely does chimpanzee diet predict environmental fruit availability at Gombe National Park?. *American Journal of Biological Anthropology, 177*, 154.
 
-2021. **Roivas, S. L.**, & Gilby, I. C. Modification of chimpanzee diet composition in response to long-term habitat change. *American Journal of Biological Anthropology, 174*, 90.
+(2021) **Roivas, S. L.**, & Gilby, I. C. Modification of chimpanzee diet composition in response to long-term habitat change. *American Journal of Biological Anthropology, 174*, 90.
 
 ---
 
 ### Selected Research Grants
  
-- **National Science Foundation – $25,200** - _Doctoral Dissertation Research Improvement Grant_
+**National Science Foundation – $25,200** - _Doctoral Dissertation Research Improvement Grant_
 
-- **The Leakey Foundation - $14,304** - _Research Grant_ 
+**The Leakey Foundation - $14,304** - _Research Grant_ 
