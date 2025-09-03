@@ -4,8 +4,6 @@ title: ""
 ---
 ## How do landscapes shape the demography, movement, and sociality of populations?
 
----
-
 My  research focuses on two communities of **chimpanzees** in **Gombe National Park, Tanzania** - a habitat that's experienced significant longitudinal change since the 1960s. This population serves as a valuable case study for exploring the ways in which feeding habitat heterogeneity across space and time can drive variation in the complex social interactions of our close evolutionary relatives.
 
 My dissertation research is conducted at **Arizona State University**, which houses the **Jane Goodall Institute Gombe Research Archive**. 
@@ -14,7 +12,7 @@ _I'm currently applying for positions with start dates on/after Spring 2026._
 
 ---
 
-## Methodological Approaches
+### Methodological Approaches
 
 **Archival Observational Data** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. I analyze data collected over the past 65 years that capture demography, reproduction, sociality, and more to answer questions about changes in behavior during habitat change. 
 
@@ -24,7 +22,7 @@ _I'm currently applying for positions with start dates on/after Spring 2026._
 
 ---
 
-## Featured Citations
+### Featured Citations
 - **Roivas, S. L.**, & Gilby, I. C. 2021. Modification of chimpanzee diet composition in response to long-term habitat change. *American Journal of Biological Anthropology, 174*, 90.
 
 - **Roivas, S. L.**, & Gilby, I. C. 2022. How closely does chimpanzee diet predict environmental fruit availability at Gombe National Park?. *American Journal of Biological Anthropology, 177*, 154.
@@ -35,7 +33,7 @@ _I'm currently applying for positions with start dates on/after Spring 2026._
 
 ---
 
-## Featured Research Grants
+### Featured Research Grants
  
 **National Science Foundation – $25,200** - _Doctoral Dissertation Research Improvement Grant (DDRIG): Wild primate responses to variation in feeding habitat quality_ 
 
@@ -43,7 +41,7 @@ _I'm currently applying for positions with start dates on/after Spring 2026._
 
 ---
 
-## Teaching & Mentorship
+### Teaching & Mentorship
  
 **Arizona State University**
 - Course instructor, independent research advisor (undergraduate and graduate), senior thesis committee member
@@ -58,7 +56,7 @@ _I'm currently applying for positions with start dates on/after Spring 2026._
 
 ---
 
-## Education
+### Education
 
 - PhD Anthropology, _Arizona State University (Expected 2026)_
 
@@ -68,7 +66,7 @@ _I'm currently applying for positions with start dates on/after Spring 2026._
 
 ---
 
-## Featured Awards and Honors
+### Featured Awards and Honors
  - Outstanding Mentor Award (2024)
    
  - Teaching Excellence Award (2021)
@@ -79,12 +77,12 @@ _I'm currently applying for positions with start dates on/after Spring 2026._
 
 ---
 
-## Curriculum Vitae
+### Curriculum Vitae
 A full account of my academic training, research experience, and teaching record is available [here](https://docs.google.com/document/d/1h_WqnBvjqwgTYDTpesCvbAA6FpGEaqVP/edit?usp=sharing&ouid=112979041482582723813&rtpof=true&sd=true).
 
 ---
 
-## Contact
+### Contact
 
 I'm always excited to hear about open roles, academic collaborations, and opportunities to share my work. Please contact me via email at **sroivas@asu.edu**.
 
