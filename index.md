@@ -8,13 +8,7 @@ title: ""
 ---
 My dissertation research is conducted at **Arizona State University's Institute of Human Origins**, which houses the **Jane Goodall Institute Gombe Research Archive**. 
 
-My  research focuses on two communities of wild chimpanzees in Gombe National Park, Tanzania - a habitat that's experienced significant longitudinal change since the 1960s. To answer my research questions, I incorporate:
-
-**Archival Observational Data** - My work leverages the world's longest continuous wild primate research study, begun by Jane Goodall in 1960. I analyze data collected over the past 65 years that capture demography, reproduction, sociality, and more to answer questions about changes in behavior during habitat change. 
-
-**Spatial Analysis** – I use historic behavioral data and remote-sensed imagery to construct Species Distribution Models of plants that serve as important foods for chimpanzees. This allows us to assess the feeding habitat quality of Gombe National Park at regular intervals across the last four decades.
-
-**Biomarker Analysis** – My extensive fieldwork experience includes applying non-invasive methods to collect hundreds of samples for measurement of urinary C-peptide of insulin in order to better understand how diet shapes energy availability in chimpanzees.
+My  research focuses on two communities of wild chimpanzees in Gombe National Park, Tanzania - a habitat that's experienced significant longitudinal change since the 1960s. To answer my research questions, I incorporate **archival observational data, spatial analysis, and biomarker analysis**.
 
 My CV is available [here](https://docs.google.com/document/d/1h_WqnBvjqwgTYDTpesCvbAA6FpGEaqVP/edit?usp=sharing&ouid=112979041482582723813&rtpof=true&sd=true).
 
