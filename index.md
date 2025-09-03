@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "How do the spatial characteristics of landscapes shape the demography, movement, and sociality of populations?"
+title: ""
 ---
+#How do the spatial characteristics of landscapes shape the demography, movement, and sociality of populations?
 
 My  research focuses on two communities of **chimpanzees** in **Gombe National Park, Tanzania** - a habitat that's experienced significant longitudinal change since the 1960s. This population serves as a valuable case study for exploring the ways in which feeding habitat heterogeneity across space and time can drive variation in the complex social interactions of our close evolutionary relatives.
 
