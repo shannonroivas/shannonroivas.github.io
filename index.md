@@ -57,14 +57,6 @@ My dissertation research is conducted at **Arizona State University's Institute 
 
 ---
 
-### Education
-
-- PhD Anthropology, _Arizona State University (Expected 2026)_
-- MA Anthropology, _Arizona State University (2021)_
-- BS Evolutionary Anthropology & Biology, _Duke University (2017)_
-
----
-
 ### Featured Awards and Honors
  - Outstanding Mentor Award (2024)
  - Teaching Excellence Award (2021)
