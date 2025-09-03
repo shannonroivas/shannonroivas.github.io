@@ -35,9 +35,9 @@ _I'm currently applying for positions with start dates on/after Spring 2026._
 
 ### Featured Research Grants
  
-**National Science Foundation – $25,200** - _Doctoral Dissertation Research Improvement Grant (DDRIG): Wild primate responses to variation in feeding habitat quality_ 
+- **National Science Foundation – $25,200** - _Doctoral Dissertation Research Improvement Grant (DDRIG): Wild primate responses to variation in feeding habitat quality_ 
 
-**The Leakey Foundation - $14,304** - _Research Grant_ 
+- **The Leakey Foundation - $14,304** - _Research Grant_ 
 
 ---
 
