@@ -1,4 +1,4 @@
-<img width="468" height="641" alt="image" src="https://github.com/user-attachments/assets/95ec911f-ac60-465a-9ced-254b4b95e612" />---
+---
 layout: page
 title: ""
 ---
