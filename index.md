@@ -3,7 +3,8 @@ layout: page
 title: ""
 ---
 
-## I'm a *behavioral ecologist* and *primatologist*. I study how landscapes shape the demography, movement, and sociality of primate populations.
+## I'm a *behavioral ecologist* and *primatologist*. 
+## I study how landscapes shape the demography, movement, and sociality of primate populations.
 
 ---
 My dissertation research is conducted at **Arizona State University's Institute of Human Origins**, which houses the [**Jane Goodall Institute Gombe Research Archive.**<i class="fa-solid fa-link"></i>](https://iho.asu.edu/GombeProject){:target="_blank"}
