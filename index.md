@@ -16,9 +16,9 @@ My CV is available [here](https://docs.google.com/document/d/1h_WqnBvjqwgTYDTpes
 
 ### Publications (*In preparation*)
 
-**Roivas, S.L.**, Schultz, J.M.*, Hoffman, M. & Gilby, I.C. “Ecological and social pressures shape chimpanzee nest site selection”. Manuscript to be submitted to _Current Biology_.
+**Roivas, S.L.**, Schultz, J.M.*, Hoffman, M., Mjungu, D.C. & Gilby, I.C. “Ecological and social pressures shape chimpanzee nest site selection”. Manuscript to be submitted to _Current Biology_.
 
-**Roivas, S.L.**, Green, C.* , Gilby, I.C. & Pusey, A.E. "Maternity leave: Fission-fusion sociality as strategy for managing post-partum constraints in female chimpanzees”. Manuscript to be submitted to _Behavioral Ecology and Sociobiology_.
+**Roivas, S.L.**, Green, C.*, Gilby, I.C., Mjungu, D.C. & Pusey, A.E. "Maternity leave: Fission-fusion sociality as strategy for managing post-partum constraints in female chimpanzees”. Manuscript to be submitted to _Behavioral Ecology and Sociobiology_.
 
 *co-first author & research mentee
 
@@ -26,6 +26,6 @@ My CV is available [here](https://docs.google.com/document/d/1h_WqnBvjqwgTYDTpes
 
 ### Research Grants
  
-**National Science Foundation – $25,200** - _Doctoral Dissertation Research Improvement Grant_
+**National Science Foundation – $25,200** - _DDRIG_
 
 **The Leakey Foundation - $14,304** - _Research Grant_ 
