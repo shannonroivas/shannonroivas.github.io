@@ -67,8 +67,8 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #405947;
-  text-decoration: none;
+  color: #456e50;
+  text-decoration: underline;
 }
 a strong {
   color: inherit;
