@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-## I'm a **behavioral ecologist** and **primatologist**, and I study how **landscapes shape the demography, movement, and sociality of primate populations**.
+## I'm a *behavioral ecologist* and *primatologist*. I study how *landscapes* shape the *demography, movement,* and *sociality* of primate populations.
 
 ---
 My dissertation research is conducted at **Arizona State University's Institute of Human Origins**, which houses the **Jane Goodall Institute Gombe Research Archive**. 
@@ -16,27 +16,13 @@ My CV is available [here](https://docs.google.com/document/d/1h_WqnBvjqwgTYDTpes
 
 ### Publications (*In preparation*)
 
-**Roivas, S.L.** & Gilby, I.C. “Modification of chimpanzee diet composition reflects long-term habitat change”. Manuscript to be submitted to _American Journal of Primatology_.
+**Roivas, S.L.**, Schultz, J.M.*, Hoffman, M. & Gilby, I.C. “Ecological and social pressures shape chimpanzee nest site selection”. Manuscript to be submitted to _Current Biology_.
 
-Schultz, J.M.*, **Roivas, S.L.**, Hoffman, M. & Gilby, I.C. “Ecological and social pressures shape chimpanzee nest site selection”. Manuscript to be submitted to _Current Biology_.
+**Roivas, S.L.**, Green, C.* , Gilby, I.C. & Pusey, A.E. "Maternity leave: Fission-fusion allows flexible management of post-partum constraints in female chimpanzees”. Manuscript to be submitted to _Behavioral Ecology and Sociobiology_.
 
-**Roivas, S.L.**, Green, C.* , Gilby, I.C. & Pusey, A.E. “Maternity leave: Reduced sociality in post-partum chimpanzees”. 
-
-*research mentee
+*research mentee is co-first author
 
 ---
-
-### Conference Activity
-
-(2025) Klopfenstein, M.*, **Roivas, S.L.**, & Gilby, I.C. Mothers' presence is associated with riskier aggression in female chimpanzees. *American Journal of Biological Anthropology, 186*, 88.
-
-(2024) Schultz, J. M.*, **Roivas, S. L.**, Hoffman, M., & Gilby, I. C. Ecological and social pressures shape chimpanzee nest site selection. *American Journal of Biological Anthropology, 183*, 161.
-
-(2022) **Roivas, S. L.**, & Gilby, I. C. How closely does chimpanzee diet predict environmental fruit availability at Gombe National Park?. *American Journal of Biological Anthropology, 177*, 154.
-
-(2021) **Roivas, S. L.**, & Gilby, I. C. Modification of chimpanzee diet composition in response to long-term habitat change. *American Journal of Biological Anthropology, 174*, 90.
-
-*research mentee
 
 ---
 
