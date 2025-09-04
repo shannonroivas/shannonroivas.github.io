@@ -166,7 +166,16 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/* Main content links */
+.main-content a {
+  color: #006400;   /* dark green */
+  text-decoration: underline;
+}
 
+.main-content a:hover {
+  color: #32cd32;   /* brighter green on hover */
+  text-decoration: underline; /* optional */
+}
 
 /*
  * Themes
