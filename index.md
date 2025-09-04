@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-## I'm a *behavioral ecologist* and *primatologist*. 
+## Behavioral Ecologist & Primatologist
 ## I study how landscapes shape the demography, movement, and sociality of primate populations.
 
 ---
