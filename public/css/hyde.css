@@ -168,8 +168,8 @@ a.sidebar-nav-item:focus {
 
 /* Main content links */
 .main-content a {
-  color: #006400;   /* dark green */
-  text-decoration: underline;
+  color: #375945;   /* dark green */
+  text-decoration: none;
 }
 
 .main-content a:hover {
