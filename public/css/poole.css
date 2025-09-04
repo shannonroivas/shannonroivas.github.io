@@ -114,9 +114,11 @@ strong {
 }
 
 a i {
-  margin-left: 4px;     /* small spacing from link text */
-  font-size: 0.8em;    /* slightly smaller than text */
-  color: inherit;       /* use same color as link */
+  margin-left: 2px;     /* small spacing from link text */
+  font-size: 0.5em;    /* slightly smaller than text */
+  color: inherit;           /* matches link color */
+  vertical-align: top;      /* align icon to top of text */
+  line-height: 1;           /* keeps icon snug with text */
 }
 
 /* Lists */
