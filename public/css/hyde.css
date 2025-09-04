@@ -177,6 +177,12 @@ a.sidebar-nav-item:focus {
   color: #32cd32 !important;   /* bright green on hover */
   text-decoration: underline;
 }
+
+a i {
+  margin-left: 4px;     /* small spacing from link text */
+  font-size: 0.8em;    /* slightly smaller than text */
+  color: inherit;       /* use same color as link */
+}
 /*
  * Themes
  *
