@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-## I'm a *behavioral ecologist* and *primatologist*. I study how *landscapes* shape the *demography, movement,* and *sociality* of primate populations.
+## I'm a *behavioral ecologist* and *primatologist*. I study how landscapes shape the *demography, movement, and sociality of primate populations.
 
 ---
 My dissertation research is conducted at **Arizona State University's Institute of Human Origins**, which houses the [**Jane Goodall Institute Gombe Research Archive**](https://iho.asu.edu/GombeProject). 
@@ -20,13 +20,11 @@ My CV is available [here](https://docs.google.com/document/d/1h_WqnBvjqwgTYDTpes
 
 **Roivas, S.L.**, Green, C.* , Gilby, I.C. & Pusey, A.E. "Maternity leave: Fission-fusion allows flexible management of post-partum constraints in female chimpanzees”. Manuscript to be submitted to _Behavioral Ecology and Sociobiology_.
 
-*research mentee is co-first author
+*co-first author & research mentee
 
 ---
 
----
-
-### Selected Research Grants
+### Research Grants
  
 **National Science Foundation – $25,200** - _Doctoral Dissertation Research Improvement Grant_
 
