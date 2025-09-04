@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-## I'm a *behavioral ecologist* and *primatologist*. I study how landscapes shape the *demography, movement, and sociality of primate populations.
+## I'm a *behavioral ecologist* and *primatologist*. I study how landscapes shape the demography, movement, and sociality of primate populations.
 
 ---
 My dissertation research is conducted at **Arizona State University's Institute of Human Origins**, which houses the [**Jane Goodall Institute Gombe Research Archive**](https://iho.asu.edu/GombeProject){:target="_blank"}. 
@@ -18,7 +18,7 @@ My CV is available [here](https://docs.google.com/document/d/1h_WqnBvjqwgTYDTpes
 
 **Roivas, S.L.**, Schultz, J.M.*, Hoffman, M. & Gilby, I.C. “Ecological and social pressures shape chimpanzee nest site selection”. Manuscript to be submitted to _Current Biology_.
 
-**Roivas, S.L.**, Green, C.* , Gilby, I.C. & Pusey, A.E. "Maternity leave: Fission-fusion allows flexible management of post-partum constraints in female chimpanzees”. Manuscript to be submitted to _Behavioral Ecology and Sociobiology_.
+**Roivas, S.L.**, Green, C.* , Gilby, I.C. & Pusey, A.E. "Maternity leave: Fission-fusion sociality as strategy for managing post-partum constraints in female chimpanzees”. Manuscript to be submitted to _Behavioral Ecology and Sociobiology_.
 
 *co-first author & research mentee
 
