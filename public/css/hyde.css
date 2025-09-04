@@ -167,16 +167,16 @@ a.sidebar-nav-item:focus {
 }
 
 /* Main content links */
-.main-content a {
-  color: #375945;   /* dark green */
+.main-content a,
+.main-content a:visited {
+  color: #375945 !important;   /* dark green */
   text-decoration: none;
 }
 
 .main-content a:hover {
-  color: #32cd32;   /* brighter green on hover */
-  text-decoration: underline; /* optional */
+  color: #32cd32 !important;   /* bright green on hover */
+  text-decoration: underline;
 }
-
 /*
  * Themes
  *
