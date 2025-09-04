@@ -6,11 +6,11 @@ title: ""
 ## I'm a *behavioral ecologist* and *primatologist*. I study how landscapes shape the demography, movement, and sociality of primate populations.
 
 ---
-My dissertation research is conducted at **Arizona State University's Institute of Human Origins**, which houses the [**Jane Goodall Institute Gombe Research Archive**<i class="fa-solid fa-link"></i>](https://iho.asu.edu/GombeProject){:target="_blank"}.
+My dissertation research is conducted at **Arizona State University's Institute of Human Origins**, which houses the [**Jane Goodall Institute Gombe Research Archive.**<i class="fa-solid fa-link"></i>](https://iho.asu.edu/GombeProject){:target="_blank"}
 
 My  research focuses on two communities of wild chimpanzees in Gombe National Park, Tanzania - a habitat that's experienced significant longitudinal change since the 1960s. To answer my research questions, I incorporate **archival observational data**, **spatial analysis**, and **biomarker analysis**.
 
-My CV is available [here<i class="fa-solid fa-link"></i>](https://docs.google.com/document/d/1h_WqnBvjqwgTYDTpesCvbAA6FpGEaqVP/edit?usp=sharing&ouid=112979041482582723813&rtpof=true&sd=true){:target="_blank"}.
+My CV is available [here.<i class="fa-solid fa-link"></i>](https://docs.google.com/document/d/1h_WqnBvjqwgTYDTpesCvbAA6FpGEaqVP/edit?usp=sharing&ouid=112979041482582723813&rtpof=true&sd=true){:target="_blank"}
 
 ---
 
